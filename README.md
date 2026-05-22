@@ -150,6 +150,7 @@ You are very welcome to pull request to update this list. :smiley:
 - sensetime seminar1 [video](https://www.bilibili.com/video/BV1Bf4y1b7PF?spm_id_from=333.999.0.0)
 - sensetime seminar2 [slides](https://docs.google.com/presentation/d/11CoKCxRFgzbIujMXxTZjHDo_hV0arEQ7sUFWFXWaX8o/edit#slide=id.p1)
 ## Course
+- [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 - [University of Toronto, csc2541](http://www.cs.toronto.edu/~urtasun/courses/CSC2541/06_3D_detection.pdf)
 - [University of Tübingen, Self-Driving Cars](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/self-driving-cars/) *(Strong Recommendation)*
 - [baidu-Udacity](https://apollo.auto/devcenter/devcenter.html)
